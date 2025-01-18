@@ -12,7 +12,7 @@ class LuckyNumber
 
         for (int x = m; x <= n; x++)
         {
-            if (!IsPrime(x))
+            if (!IsPrime(x)) 
             {
                 int sx = DigitSum(x);
                 int sxsq = DigitSum(x * x);
