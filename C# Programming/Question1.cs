@@ -8,7 +8,7 @@ class LuckyNumber
         int m = int.Parse(input[0]);
         int n = int.Parse(input[1]);
 
-        int count = 0;
+        int count = 0; 
 
         for (int x = m; x <= n; x++)
         {
