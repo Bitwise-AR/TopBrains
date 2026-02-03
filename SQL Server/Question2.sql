@@ -5,7 +5,7 @@ CREATE TABLE Sales_Raw(
     CustomerPhone VARCHAR(20),
     CustomerCity VARCHAR(50),
     ProductNames VARCHAR(200),   -- Multiple products comma-separated
-    Quantities VARCHAR(100),     -- Multiple quantities comma-separated
+    Quantities VARCHAR(100),     -- Multiple quantities comma-separated 
     UnitPrices VARCHAR(100),     -- Multiple prices comma-separated
     SalesPerson VARCHAR(100)
 );
