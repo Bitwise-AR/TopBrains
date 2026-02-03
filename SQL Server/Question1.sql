@@ -8,7 +8,7 @@ CREATE TABLE Customers
 );
 
 CREATE TABLE Accounts
-(
+( 
     AccountID INT PRIMARY KEY,
     CustomerID INT,
     AccountNumber VARCHAR(20),
