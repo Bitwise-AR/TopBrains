@@ -1,0 +1,15 @@
+﻿@model Dictionary<string, List<Employee>>
+
+<h2>Filtered Employees</h2>
+
+@foreach (var dept in Model)
+{
+    <h3>@dept.Key</h3>
+
+    <ul>
+        @foreach (var emp in dept.Value)
+        {
+            <li>@emp.Name - @emp.Salary</li>
+        }
+    </ul>
+}
