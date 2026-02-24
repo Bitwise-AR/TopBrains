@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6EEB548-4B1B-2DDA-9938-921C494B99FA}|Linq1\\Linq1.csproj|d:\\topbrains\\adonet and linq\\linq\\linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EEB548-4B1B-2DDA-9938-921C494B99FA}|Linq1\\Linq1.csproj|solutionrelative:linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29628E10-1F58-44E7-9E1A-7E8E659E477C}|Linq2\\Linq2.csproj|d:\\topbrains\\adonet and linq\\linq\\linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29628E10-1F58-44E7-9E1A-7E8E659E477C}|Linq2\\Linq2.csproj|solutionrelative:linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6EEB548-4B1B-2DDA-9938-921C494B99FA}|Linq1\\Linq1.csproj|d:\\topbrains\\adonet and linq\\linq\\linq1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EEB548-4B1B-2DDA-9938-921C494B99FA}|Linq1\\Linq1.csproj|solutionrelative:linq1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6EEB548-4B1B-2DDA-9938-921C494B99FA}|Linq1\\Linq1.csproj|d:\\topbrains\\adonet and linq\\linq\\linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EEB548-4B1B-2DDA-9938-921C494B99FA}|Linq1\\Linq1.csproj|solutionrelative:linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq1\\Employee.cs",
-              "RelativeDocumentMoniker": "Linq1\\Employee.cs",
-              "ToolTip": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq1\\Employee.cs",
-              "RelativeToolTip": "Linq1\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq2\\Program.cs",
+              "RelativeDocumentMoniker": "Linq2\\Program.cs",
+              "ToolTip": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq2\\Program.cs*",
+              "RelativeToolTip": "Linq2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T06:36:21.332Z",
+              "WhenOpened": "2026-02-24T06:53:51.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq1\\Program.cs",
               "RelativeDocumentMoniker": "Linq1\\Program.cs",
-              "ToolTip": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq1\\Program.cs*",
-              "RelativeToolTip": "Linq1\\Program.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAA5wC4AAAAMAAAAAAAAAA==",
+              "ToolTip": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq1\\Program.cs",
+              "RelativeToolTip": "Linq1\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T06:32:47.499Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\bin\Debug\net10.0\Linq2.exe
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\bin\Debug\net10.0\Linq2.deps.json
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\bin\Debug\net10.0\Linq2.runtimeconfig.json
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\bin\Debug\net10.0\Linq2.dll
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\bin\Debug\net10.0\Linq2.pdb
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\Linq2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\Linq2.AssemblyInfoInputs.cache
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\Linq2.AssemblyInfo.cs
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\Linq2.csproj.CoreCompileInputs.cache
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\Linq2.sourcelink.json
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\Linq2.dll
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\refint\Linq2.dll
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\Linq2.pdb
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\Linq2.genruntimeconfig.cache
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq2\obj\Debug\net10.0\ref\Linq2.dll
