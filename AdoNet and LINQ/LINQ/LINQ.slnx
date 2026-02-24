@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Linq1/Linq1.csproj" />
   <Project Path="Linq2/Linq2.csproj" Id="29628e10-1f58-44e7-9e1a-7e8e659e477c" />
+  <Project Path="Linq3/Linq3.csproj" Id="0f132ab1-1bd1-40f9-bc47-bf803fb12d6d" />
 </Solution>

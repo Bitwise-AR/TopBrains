@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F132AB1-1BD1-40F9-BC47-BF803FB12D6D}|Linq3\\Linq3.csproj|d:\\topbrains\\adonet and linq\\linq\\linq3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F132AB1-1BD1-40F9-BC47-BF803FB12D6D}|Linq3\\Linq3.csproj|solutionrelative:linq3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29628E10-1F58-44E7-9E1A-7E8E659E477C}|Linq2\\Linq2.csproj|d:\\topbrains\\adonet and linq\\linq\\linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29628E10-1F58-44E7-9E1A-7E8E659E477C}|Linq2\\Linq2.csproj|solutionrelative:linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +40,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq3\\Program.cs",
+              "RelativeDocumentMoniker": "Linq3\\Program.cs",
+              "ToolTip": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq3\\Program.cs",
+              "RelativeToolTip": "Linq3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:10:36.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq2\\Program.cs",
               "RelativeDocumentMoniker": "Linq2\\Program.cs",
               "ToolTip": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq2\\Program.cs",
               "RelativeToolTip": "Linq2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T06:53:51.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TopBrains\\AdoNet and LINQ\\LINQ\\Linq1\\Program.cs",
               "RelativeDocumentMoniker": "Linq1\\Program.cs",
@@ -55,8 +72,7 @@
               "RelativeToolTip": "Linq1\\Program.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAkwCoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T06:32:47.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T06:32:47.499Z"
             }
           ]
         }

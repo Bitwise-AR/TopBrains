@@ -1,0 +1,15 @@
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\bin\Debug\net10.0\Linq3.exe
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\bin\Debug\net10.0\Linq3.deps.json
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\bin\Debug\net10.0\Linq3.runtimeconfig.json
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\bin\Debug\net10.0\Linq3.dll
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\bin\Debug\net10.0\Linq3.pdb
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\Linq3.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\Linq3.AssemblyInfoInputs.cache
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\Linq3.AssemblyInfo.cs
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\Linq3.csproj.CoreCompileInputs.cache
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\Linq3.sourcelink.json
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\Linq3.dll
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\refint\Linq3.dll
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\Linq3.pdb
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\Linq3.genruntimeconfig.cache
+D:\TopBrains\AdoNet and LINQ\LINQ\Linq3\obj\Debug\net10.0\ref\Linq3.dll
