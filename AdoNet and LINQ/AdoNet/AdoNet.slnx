@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CallSP/CallSP.csproj" />
+  <Project Path="Insert/Insert.csproj" />
+  <Project Path="Read/Read.csproj" />
+</Solution>
